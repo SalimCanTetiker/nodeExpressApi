@@ -1,6 +1,6 @@
 #API
 
-API url: https://nodeexpressapi-kfr1.onrender.com
+API url: https://nodeexpressapi-kfr1.onrender.com/product
 
 <img src="https://github.com/SalimCanTetiker/nodeExpressApi/assets/99422185/dc1350df-1994-4c7f-9d21-aaf8168e3671" width='200' height='200' />
 <img src="https://github.com/SalimCanTetiker/nodeExpressApi/assets/99422185/00ecaef6-b20d-4eaf-ba20-c31378df6f76" width='200' height='200' />
